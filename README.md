@@ -1,8 +1,3 @@
-# Patetico-HTML-Exercises
-<!--HTML EXERCISES-->>
-
-
-<!--1 - Basic Structure-->
 <!DOCTYPE html>
 <html>
     <!--2 - Page Title-->
